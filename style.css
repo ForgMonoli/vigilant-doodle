@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+
+
+.paragraph {
+    border: 2px solid rgb(136, 47, 47) ;
+    border-radius: 10px;
+    font-size: 50px;
+    background: rgb(255, 108, 108);
+    padding: 5px;
+}
+
+.probe {
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: green 2px 3px 4px
+}
